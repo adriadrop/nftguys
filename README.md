@@ -4,7 +4,7 @@
 - Converting digital assets into tokens
 - Smart Contracts and Auditing
 - Marketplace development and integrations
-- suporting Ethereum and Solana chains
-- offchain and onchain storage 
-- general NFT consulting and planing
+- Suporting Ethereum and Solana chains
+- Offchain and onchain storage 
+- General NFT consulting and planing
 
