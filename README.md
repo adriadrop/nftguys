@@ -8,3 +8,5 @@
 - Offchain and onchain storage 
 - General NFT consulting and planing
 
+-------
+Contacts: Discord | Twitter | Mail
