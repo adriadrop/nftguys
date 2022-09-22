@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+      integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <style>
+      .container {
+        height: 1200px;
+        position: relative;
+      }
+
+      .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        max-width: 800px;
+        min-width: 600px;
+        margin: auto;
+        text-align: center;
+        font-family: arial;
+        margin: 0;
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+      }
+
+      h1 {
+        font-size: 80px;
+        margin: 5px 0;
+      }
+
+      .title {
+        color: grey;
+        font-size: 25px;
+        margin: 0;
+      }
+
+      button {
+        border: none;
+        outline: 0;
+        display: inline-block;
+        padding: 8px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+        font-size: 18px;
+      }
+
+      a {
+        text-decoration: none;
+        font-size: 22px;
+        color: black;
+      }
+
+      button:hover,
+      a:hover {
+        opacity: 0.7;
+      }
+
+      body {
+        background-color: #ffffff;
+      }
+
+      .check-list {
+        margin: 0;
+        padding-left: 1.2rem;
+        text-align: left;
+      }
+
+      .check-list li {
+        position: relative;
+        list-style-position: inside;
+        list-style-type: none;
+        padding-left: 2.5rem;
+        margin-bottom: 0.5rem;
+      }
+
+      .check-list li:before {
+        content: "";
+        display: block;
+        position: absolute;
+        left: 0;
+        top: -2px;
+        width: 5px;
+        height: 11px;
+        border-width: 0 2px 2px 0;
+        border-style: solid;
+        border-color: #ffac15;
+        transform-origin: bottom left;
+        transform: rotate(45deg);
+      }
+
+      *,
+      *:before,
+      *:after {
+        box-sizing: border-box;
+      }
+
+      section {
+        max-width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 30px;
+        display: flex;
+        align-items: center;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="card">
+      <img src="img/logo.png" alt="NFT Guys" />
+      <h1>NFT GUYS</h1>
+      <p class="title">NFT'S FOR EVERYONE</p>
+      <section>
+        <ul class="check-list">
+          <li>Token development</li>
+          <li>Digital assets randomization</li>
+          <li>Smart Contracts and Auditing</li>
+          <li>Marketplace development and integrations</li>
+          <li>Ethereum and Solana chains</li>
+          <li>Offchain and onchain storage</li>
+          <li>General NFT consulting and planing</li>
+        </ul>
+      </section>
+
+      <div style="margin: 24px 0">
+        <a href="#"><i class="fa-brands fa-twitter"></i></a>
+        <a href="#"><i class="fa-brands fa-discord"></i></a>
+      </div>
+      <p><button>Contact</button></p>
+    </div>
+  </body>
+</html>
