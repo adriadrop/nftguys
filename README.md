@@ -6,7 +6,7 @@
 - Marketplace development and integrations
 - Ethereum and Solana chains
 - Offchain and onchain storage
-- General NFT consulting and planing
+- General NFT consulting and planning
 
 ---
 
