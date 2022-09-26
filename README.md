@@ -5,8 +5,9 @@
 - Smart Contracts and Auditing
 - Marketplace development and integrations
 - Suporting Ethereum and Solana chains
-- Offchain and onchain storage 
+- Offchain and onchain storage
 - General NFT consulting and planing
 
--------
-Contacts: Discord | Twitter | Mail
+---
+
+Contacts: nftguys0x@gmail.com
