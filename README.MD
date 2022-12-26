@@ -4,7 +4,7 @@
 - Generative art scripting
 - Smart Contracts and Auditing
 - Marketplace development and integrations
-- Ethereum and Solana chains
+- Ethereum and EVM compatible chains
 - Offchain and onchain storage
 - General NFT consulting and planning
 
